@@ -1,0 +1,26 @@
+body{
+    background-image: radial-gradient(circle at 120.71% 50%, #ff57d2 0, #ff4edb 12.5%, #f046e3 25%, #d63feb 37.5%, #b53cf2 50%, #8c3df9 62.5%, #4f40ff 75%, #0046ff 87.5%, #004bff 100%);
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+
+button{
+    padding: 6px 20px;
+    background: #8c3df9 62.5% 0;
+    border: 1px solid #ffffff;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition:  .5s;
+
+}
+button:hover{
+    background: transparent;
+    color: #800080;
+    border-radius: 20px;
+    transition: .2s;
+}
